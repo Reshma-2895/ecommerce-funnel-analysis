@@ -254,6 +254,4 @@ dashboard/ecommerce_funnel_dashboard.twbx
 
 ---
 
-# Author
 
-Sankeerthana Mulukutla
